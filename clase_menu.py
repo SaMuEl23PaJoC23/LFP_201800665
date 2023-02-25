@@ -18,3 +18,14 @@ a. Mostrar Peliculas
 b. Mostrar Actores
 c. Regresar
 """)
+        
+    def menu_filtrado():
+        print("""
+************ MENU ************
+********** Filtrado **********
+
+a. Filtrado por actor
+b. Filtrado por year
+c. Filtrado por genero
+d. Regresar
+""")

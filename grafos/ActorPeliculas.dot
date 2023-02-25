@@ -1,0 +1,271 @@
+digraph peliculas { 
+rankdir=LR 
+capit„°nam„©ricaelprimervengador [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Capit√°n Am√©rica: El primer vengador</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>accion</td>
+</tr>
+</table>>];
+losvengadores [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Los Vengadores</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>accion</td>
+</tr>
+</table>>];
+capit„°nam„©ricaelsoldadodeinvierno [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Capit√°n Am√©rica: El Soldado de Invierno</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>accion</td>
+</tr>
+</table>>];
+ironman [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Iron Man</td>
+</tr>
+<tr>
+<td>2008</td>
+<td>accion</td>
+</tr>
+</table>>];
+ironman2 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Iron Man 2</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>accion</td>
+</tr>
+</table>>];
+ironman3 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Iron Man 3</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>accion</td>
+</tr>
+</table>>];
+capitanamarvel [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Capitana Marvel</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>accion</td>
+</tr>
+</table>>];
+thor [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Thor</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>accion</td>
+</tr>
+</table>>];
+thorelmundooscuro [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="aquamarine">Thor: El mundo oscuro</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>accion</td>
+</tr>
+</table>>];
+chrisevans [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Chris Evans</td>
+</tr>
+</table>>];
+tommyleejones [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Tommy Lee Jones</td>
+</tr>
+</table>>];
+hayleyatwell [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Hayley Atwell</td>
+</tr>
+</table>>];
+sebastianstan [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Sebastian Stan</td>
+</tr>
+</table>>];
+stanlee [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Stan Lee</td>
+</tr>
+</table>>];
+brielarson [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Brie Larson</td>
+</tr>
+</table>>];
+samuelljackson [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse"> Samuel L. Jackson</td>
+</tr>
+</table>>];
+robertdowneyjr [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse"> Robert Downey Jr.</td>
+</tr>
+</table>>];
+jonfavreau [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Jon Favreau</td>
+</tr>
+</table>>];
+gwynethpaltrow [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Gwyneth Paltrow</td>
+</tr>
+</table>>];
+scarlettjohansson [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse"> Scarlett Johansson</td>
+</tr>
+</table>>];
+chrishemsworth [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Chris Hemsworth</td>
+</tr>
+</table>>];
+natalieportman [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Natalie Portman</td>
+</tr>
+</table>>];
+tomhiddleston [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Tom Hiddleston</td>
+</tr>
+</table>>];
+idriselba [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Idris Elba</td>
+</tr>
+</table>>];
+jeremyrenner [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Jeremy Renner</td>
+</tr>
+</table>>];
+markruffalo [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Mark Ruffalo</td>
+</tr>
+</table>>];
+anthonyhopkins [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse"> Anthony Hopkins</td>
+</tr>
+</table>>];
+stellanskarsg„•rd [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse"> Stellan Skarsg√•rd</td>
+</tr>
+</table>>];
+christophereccleston [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse"> Christopher Eccleston</td>
+</tr>
+</table>>];
+adriannepalicki [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Adrianne Palicki</td>
+</tr>
+</table>>];
+anthonymackie [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+<tr>
+<td colspan="2" bgcolor="chartreuse">Anthony Mackie</td>
+</tr>
+</table>>];
+capit„°nam„©ricaelprimervengador->chrisevans;
+losvengadores->chrisevans;
+capit„°nam„©ricaelsoldadodeinvierno->chrisevans;
+capit„°nam„©ricaelprimervengador->tommyleejones;
+capit„°nam„©ricaelprimervengador->hayleyatwell;
+capit„°nam„©ricaelprimervengador->sebastianstan;
+capit„°nam„©ricaelsoldadodeinvierno->sebastianstan;
+capit„°nam„©ricaelprimervengador->stanlee;
+capit„°nam„©ricaelsoldadodeinvierno->stanlee;
+ironman->stanlee;
+ironman2->stanlee;
+ironman3->stanlee;
+capitanamarvel->brielarson;
+losvengadores->samuelljackson;
+capit„°nam„©ricaelsoldadodeinvierno->samuelljackson;
+capitanamarvel->samuelljackson;
+losvengadores->robertdowneyjr;
+ironman->robertdowneyjr;
+ironman2->robertdowneyjr;
+ironman3->robertdowneyjr;
+ironman->jonfavreau;
+ironman2->jonfavreau;
+ironman3->jonfavreau;
+losvengadores->gwynethpaltrow;
+ironman->gwynethpaltrow;
+ironman2->gwynethpaltrow;
+ironman3->gwynethpaltrow;
+losvengadores->scarlettjohansson;
+capit„°nam„©ricaelsoldadodeinvierno->scarlettjohansson;
+ironman2->scarlettjohansson;
+losvengadores->chrishemsworth;
+thor->chrishemsworth;
+thorelmundooscuro->chrishemsworth;
+thor->natalieportman;
+thorelmundooscuro->natalieportman;
+thor->tomhiddleston;
+thorelmundooscuro->tomhiddleston;
+thor->idriselba;
+thorelmundooscuro->idriselba;
+losvengadores->jeremyrenner;
+losvengadores->markruffalo;
+thorelmundooscuro->anthonyhopkins;
+thorelmundooscuro->stellanskarsg„•rd;
+thorelmundooscuro->christophereccleston;
+thorelmundooscuro->adriannepalicki;
+capit„°nam„©ricaelsoldadodeinvierno->anthonymackie;
+}

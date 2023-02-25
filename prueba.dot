@@ -1,0 +1,91 @@
+digraph html {
+rankdir=LR
+
+nodo1 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="blue">PELICULA 1</td>
+    </tr>
+    <tr>
+        <td>year 1</td>
+        <td>genero 1</td>
+    </tr>
+</table>>];
+
+nodo2 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="green">Actor 1</td>
+    </tr>
+</table>>];
+
+
+
+nodo3 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="blue">PELICULA 2</td>
+    </tr>
+    <tr>
+        <td>year 2</td>
+        <td>genero 2</td>
+    </tr>
+</table>>];
+
+nodo4 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="green">Actor 2</td>
+    </tr>
+</table>>];
+
+
+nodo5 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="blue">PELICULA 3</td>
+    </tr>
+    <tr>
+        <td>year 3</td>
+        <td>genero 3</td>
+    </tr>
+</table>>];
+
+nodo6 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="green">Actor 3</td>
+    </tr>
+</table>>];
+
+
+
+nodo7 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="blue">PELICULA 4</td>
+    </tr>
+    <tr>
+        <td>year 4</td>
+        <td>genero 4</td>
+    </tr>
+</table>>];
+
+nodo8 [shape=none, margin=0, label=<
+<table border="0" cellborder="1">
+    <tr>
+        <td colspan="2" bgcolor="green">Actor 4</td>
+    </tr>
+</table>>];
+
+nodo1 -> nodo2;
+nodo1 -> nodo4;
+nodo1 -> nodo8;
+
+nodo3 -> nodo4;
+nodo3 -> nodo8;
+
+nodo5 -> nodo6;
+nodo7 -> nodo8;
+
+}
